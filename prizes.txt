@@ -1,0 +1,13 @@
+Toys list for lottery:
+1 winner Masha Pupkina - prize: id 3 - name red ball 
+2 winner Ivan Lobov - prize: id 3 - name red ball 
+3 winner Smirnova Olga - prize: id 2 - name ken 
+4 winner Smirnova Aksinya - prize: id 3 - name red ball 
+5 winner Ivan Voronov - prize: id 2 - name ken 
+6 winner Terekhova Aksinya - prize: id 2 - name ken 
+7 winner Belova Lena - prize: id 3 - name red ball 
+8 winner Belova Ariadna - prize: id 7 - name baby doll 
+9 winner Masha Ivanova - prize: id 3 - name red ball 
+10 winner Bulkina Ariadna - prize: id 7 - name baby doll 
+11 winner Alla Peskova - prize: id 3 - name red ball 
+12 winner Olga Ivanova - prize: id 8 - name robot 

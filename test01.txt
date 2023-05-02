@@ -1,0 +1,11 @@
+Toys list for lottery:
+1 winner Belova Ariadna - prize: id 3 - name red ball 
+2 winner Terekhova Aksinya - prize: id 3 - name red ball 
+3 winner Lena Ivanova - prize: id 3 - name red ball 
+4 winner Belkina Anna - prize: id 3 - name red ball 
+5 winner Ivan Voronov - prize: id 7 - name baby doll 
+6 winner Bulkina Ariadna - prize: id 6 - name soft snake 
+7 winner Ivan Lobov - prize: id 3 - name red ball 
+8 winner Smirnova Aksinya - prize: id 6 - name soft snake 
+9 winner Olga Petrova - prize: id 6 - name soft snake 
+10 winner Belova Lena - prize: id 3 - name red ball 

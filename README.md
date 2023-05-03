@@ -57,13 +57,20 @@
 
 6. **StoreController** - класс маршрутизатор (основной цикл интерактивного диалога с пользователем)
 Содержит следующие варианты:
-   1 - Show the list of toys in the store available for lottery 
+   1 - Show the list of toys in the store available for lottery
+   
    2 - Show result of lottery - the prize list
+   
    3 - Add new toys in the Toy store
+   
    4 - Add toys to the store by id
+   
    5 - Change "weight" for the toy
+   
    6 - Get random prize list
+   
    7 - Write prize list to txt-file
+   
    Q - Exit
 
 7. **LotteryFunction** - класс набор методов реализующих функционал программы.
